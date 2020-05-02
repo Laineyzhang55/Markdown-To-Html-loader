@@ -7,7 +7,7 @@ npm install
 ```
 **npm**
 ```
-npm install --save Markdown-To-Html-loader
+npm install --save markdown-to-html-loader
 ```
 
 ## usage
